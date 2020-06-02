@@ -2,8 +2,6 @@
 
 <img src="/res/img/screen_1_1280_2.png" />
 
-<video src="/res/video/video_1.mp4">
-
 <img src="/res/img/screen_5_1280.png" />
 
 <img src="https://preview.redd.it/iitxjt8b6o051.png?width=951&format=png&auto=webp&s=2bc48bb3ba0d507d76a2d9a496ac6751b165742f" />
