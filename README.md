@@ -1,6 +1,6 @@
 <img src="/res/img/banner_4.png" />
 
-<img src="/res/img/screen_1_1280.png" />
+<img src="/res/img/screen_1_1280_2.png" />
 
 <img src="/res/img/screen_5_1280.png" />
 
