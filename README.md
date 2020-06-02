@@ -2,7 +2,7 @@
 
 <img src="/res/img/screen_1_1280_2.png" />
 
-<img src="/res/img/screen_2_1280.png" />
+<img src="/res/img/screen_2_1280_2.png" />
 
 <img src="https://preview.redd.it/iitxjt8b6o051.png?width=951&format=png&auto=webp&s=2bc48bb3ba0d507d76a2d9a496ac6751b165742f" />
 
